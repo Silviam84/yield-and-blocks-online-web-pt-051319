@@ -1,7 +1,9 @@
 def hello_t(array)
 i = log10
-when i <
+when i < array.validates_length_of
+  i = i +l
+  
 end
 
-# call your method here!
+
 
